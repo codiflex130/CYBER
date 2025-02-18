@@ -81,7 +81,7 @@ input[type="Password"]:focus{
     text-decoration: underline;
     color: #ffd500;
 }
-.button{
+.btn{
     position: relative;
     width: 100%;
     padding: 10px 0;
@@ -90,7 +90,7 @@ input[type="Password"]:focus{
     border-radius: 50px;
     cursor: pointer;
 }
-button:active{
+btn:active{
     transform: scale(0.98);
 }
 .fa-send{
